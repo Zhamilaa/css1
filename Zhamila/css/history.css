@@ -1,0 +1,44 @@
+body{background-color: white;
+}
+header{
+   
+    text-align: center;
+    font-size: 35px;
+}
+h1{color:mediumseagreen;
+  }
+nav a {text-align: center;
+    color:red;
+    margin-bottom: auto 15px;
+    
+}
+img { margin:150px;
+    margin-left: 195px;
+    margin-right: 20px;
+    height: 450px;
+    width: 600px;
+
+}
+.center{
+    display: block;
+    margin: 0 auto;
+    
+}
+h2{
+    color:mediumseagreen;
+    text-align: center;
+    font-size: 35px;
+    
+}
+    
+p{ margin: auto 450px;
+    color: red;
+    font-size: 20px;
+   
+    
+}
+ul a{margin: auto 450px;
+    font-size: 20px;
+    color: red;
+}
+

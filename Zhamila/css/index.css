@@ -1,0 +1,36 @@
+body{background-image: url(../images/303254-pattern.jpg);
+}
+header{
+   
+    text-align: center;
+    font-size: 35px;
+}
+h1{color:mediumseagreen;
+  }
+nav a {text-align: center;
+    color:red;
+    
+}
+img { margin: auto 450px;
+    height: 750px;
+    width: 950px;
+
+}
+
+h2{
+    color:mediumseagreen;
+    text-align: center;
+    font-size: 35px;
+    
+}
+    
+p{ margin: auto 450px;
+    color: red;
+    font-size: 25px;
+   
+    
+}
+ul a{
+    font-size: 20px;
+    color: red;
+}

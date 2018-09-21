@@ -1,0 +1,35 @@
+header{
+   
+    text-align: center;
+    font-size: 35px;
+}
+h1{color:mediumseagreen;
+  }
+nav a {text-align: center;
+    color:red;
+    
+}
+img { margin: auto 530px;
+    height: 550px;
+    width: 750px;
+}
+
+h2{
+    color:mediumseagreen;
+    text-align: center;
+    font-size: 35px; 
+}
+    
+p{margin: auto 450px;
+    color: red;
+    font-size: 25px; 
+}
+table { margin:auto 450px;
+}
+th{ 
+    
+    color:cornflowerblue;
+    font-size:20px;
+}
+td{ color:darkred;
+}
